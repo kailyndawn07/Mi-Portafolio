@@ -1,0 +1,40 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color:  #dd4d9f;
+  color: #333;
+}
+
+/* Encabezado */
+header {
+  background-color: #f168c3;
+  color: rgb(162, 16, 126);
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+header img {
+  width: 150px;
+  border-radius: 20%;
+  margin-top: 1rem;
+}
+
+/* Secciones */
+section {
+  padding: 2rem;
+  margin: 1rem auto;
+  max-width: 800px;
+  background-color: rgb(212, 87, 187);
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+/* Pie de página */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color:#f168c3;
+  color: white;
+}
+ 
